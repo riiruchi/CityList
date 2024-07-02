@@ -7,7 +7,6 @@
 
 import Foundation
 
-
 struct CityViewModel {
     let name: String
     let population: String

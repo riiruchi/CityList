@@ -7,8 +7,6 @@
 
 import UIKit
 
-import UIKit
-
 class CityDetailViewController: UIViewController {
     private let city: CityViewModel
     private var country: Country?

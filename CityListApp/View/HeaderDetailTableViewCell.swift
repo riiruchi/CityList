@@ -7,8 +7,6 @@
 
 import UIKit
 
-import UIKit
-
 class HeaderTableViewCell: UITableViewCell {
     
     let leftHeaderLabel: UILabel = {
